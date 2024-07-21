@@ -53,3 +53,25 @@
 <p align="left">(The discord is for the Lead Programmer of Flotify)</p>
 
 ###
+
+<h3 align="center">This project is in partnership with:</h3>
+
+###
+
+<div align="center">
+  <img height="50" src="https://scontent.fsfs2-1.fna.fbcdn.net/v/t39.30808-6/294367817_426275569519290_3905736231751713331_n.png?stp=dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF07O5PtQ6-_sJeKI4eIvwRb9m-iJhqwEVv2b6ImGrARTxX0vj5eADlsRK41IIJOLWzNeLpifv0Bgdc8Tvun9sS&_nc_ohc=OOvu5g3yEowQ7kNvgHBDVGZ&_nc_ht=scontent.fsfs2-1.fna&oh=00_AYAKqBZjEetV7FOTMGvHTwLcJHOYjapk-hgSyk5MwBQcBA&oe=66A31EC7"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="50" src="https://raw.githubusercontent.com/chrispycreeme/flotify-arduino-cde/main/flutter/flotify_beta/assets/CityLogo.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="50" src="https://raw.githubusercontent.com/chrispycreeme/flotify-arduino-cde/main/flutter/flotify_beta/assets/STElogo.png"  />
+</div>
+
+###
